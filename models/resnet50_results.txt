@@ -1,0 +1,7 @@
+ResNet-50 Soil Classification Results
+=============================================
+
+Test Accuracy: 91.09%
+Precision: 91.46%
+Recall: 91.09%
+F1-score: 91.13%

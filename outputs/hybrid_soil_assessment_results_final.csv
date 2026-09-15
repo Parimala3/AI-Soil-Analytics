@@ -1,0 +1,5 @@
+Image,Soil Type,CNN Confidence,Nitrogen Gap,N Status,Phosphorus Gap,P Status,Potassium Gap,K Status,Soil Health Score,Soil Health Level
+Alluvial_26.jpg,Alluvial soil,0.9996803998947144,-3576.2285,No Positive Gap,6.369735,Positive Gap,-399.87177,No Positive Gap,66.66666666666666,Moderate
+Copy of images350.jpg,Black Soil,0.995775043964386,-4254.2026,No Positive Gap,-5.9138575,No Positive Gap,-374.53598,No Positive Gap,100.0,Good
+Clay_13.jpg,Clay soil,0.9995074272155762,-8731.017,No Positive Gap,-39.95514,No Positive Gap,-306.61853,No Positive Gap,100.0,Good
+Red_29.jpg,Red soil,0.9826458692550659,-5861.172,No Positive Gap,-47.785183,No Positive Gap,-353.75024,No Positive Gap,100.0,Good
