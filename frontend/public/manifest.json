@@ -1,0 +1,16 @@
+{
+  "name": "AI Soil Analytics",
+  "short_name": "Soil Analytics",
+  "description": "Smart soil analysis and crop recommendations for farmers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8f3",
+  "theme_color": "#2e7d32",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": [
+    "agriculture",
+    "education",
+    "utilities"
+  ]
+}

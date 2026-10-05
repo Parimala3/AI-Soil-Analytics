@@ -1,0 +1,91 @@
+{
+    "Nitrogen": {
+        "condition": "Positive nitrogen gap",
+        "recommendation": [
+            "Apply nitrogen fertilizer according to the soil test and crop-specific recommendation.",
+            "Prefer split application of nitrogen where recommended for the crop.",
+            "Avoid excessive nitrogen application.",
+            "Consider integrated nutrient management using suitable organic nutrient sources."
+        ],
+        "management": [
+            "Use farmyard manure or compost as part of integrated nutrient management.",
+            "Consider suitable legume or green-manure crops where appropriate.",
+            "Monitor crop growth and soil nutrient status."
+        ]
+    },
+    "Phosphorus": {
+        "condition": "Positive phosphorus gap",
+        "recommendation": [
+            "Apply phosphorus fertilizer according to the soil test and crop-specific recommendation.",
+            "Use the appropriate phosphorus source recommended for the crop and soil.",
+            "Avoid unnecessary phosphorus application when soil phosphorus is already adequate."
+        ],
+        "management": [
+            "Maintain balanced NPK nutrition.",
+            "Use organic nutrient sources as part of integrated nutrient management."
+        ]
+    },
+    "Potassium": {
+        "condition": "Positive potassium gap",
+        "recommendation": [
+            "Apply potassium fertilizer according to the soil test and crop-specific recommendation.",
+            "Select the appropriate potassium source for the crop.",
+            "Avoid excessive potassium application when soil potassium is adequate."
+        ],
+        "management": [
+            "Maintain balanced NPK nutrition.",
+            "Recycle suitable crop residues where appropriate."
+        ]
+    },
+    "Acidic_pH": {
+        "condition": "Acidic soil",
+        "recommendation": [
+            "Verify soil acidity through soil testing.",
+            "Use an appropriate liming material only when recommended for the soil and crop.",
+            "Follow locally recommended liming practices."
+        ],
+        "management": [
+            "Maintain balanced nutrient management.",
+            "Use suitable organic amendments where appropriate."
+        ]
+    },
+    "Alkaline_pH": {
+        "condition": "Alkaline soil",
+        "recommendation": [
+            "Verify soil reaction through soil testing.",
+            "Use crop- and soil-specific management practices.",
+            "Avoid indiscriminate application of amendments."
+        ],
+        "management": [
+            "Maintain balanced nutrient management.",
+            "Improve soil organic matter where appropriate.",
+            "Select crops suitable for the soil condition."
+        ]
+    },
+    "Low_Organic_Matter": {
+        "condition": "Low organic matter",
+        "recommendation": [
+            "Increase organic matter inputs where locally appropriate.",
+            "Use farmyard manure or compost.",
+            "Consider vermicompost and suitable green-manure practices."
+        ],
+        "management": [
+            "Recycle suitable crop residues.",
+            "Consider green manuring.",
+            "Use biofertilizers where appropriate.",
+            "Avoid practices that unnecessarily reduce soil organic matter."
+        ]
+    },
+    "Balanced_Nutrients": {
+        "condition": "No positive NPK gap detected",
+        "recommendation": [
+            "Maintain balanced nutrient management.",
+            "Continue soil testing to monitor nutrient status.",
+            "Avoid unnecessary fertilizer application."
+        ],
+        "management": [
+            "Maintain organic matter through appropriate organic inputs.",
+            "Follow crop-specific nutrient recommendations."
+        ]
+    }
+}
